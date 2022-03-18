@@ -7,8 +7,25 @@
 } */
 
 .jumbotron {
-  background-image: url(/Users/jakeedgar/Desktop/portfolio/img/brooklyn_bridge_3.jpg);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  background-image: url(../img/brooklyn_bridge_5.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-position: center;
+  /* background-size: 100% 100%; */
+  background-size: cover;
+}
+
+h1 {
+  -webkit-text-stroke: .5px #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+
+body {
+  background-color: darkgrey;
 }
