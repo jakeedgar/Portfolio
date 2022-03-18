@@ -8,6 +8,7 @@
 
 * HTML
 * CSS
+* Mark Down
 * Bootstrap
 
 ## Description
@@ -16,7 +17,8 @@ Using this website, users can easily navigated to past and current projects by t
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop by using the command *git clone* followed by the github generated URL.
+* Navigate to your preferred code editing software. 
+* Clone this repository to your desktop by using the command *git clone* followed by this link https://github.com/jakeedgar/portfolio.git
 * Navigate to the top level of the directory. 
 * Open index.html in your browser. 
 
@@ -24,8 +26,10 @@ Using this website, users can easily navigated to past and current projects by t
 
 * There are no known bugs at this time.
 
+## Questions, Comments or Concerns
+* Please email me at jakeedgar1012@gmail.com with any inquires or comments. Thank you. 
+
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+Licensed under the [MIT License](LICENSE).
+Copyright (c) 2022 Jake Edgar
