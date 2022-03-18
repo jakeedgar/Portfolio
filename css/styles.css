@@ -72,3 +72,8 @@ ul.no-bullets {
   margin: 0;
   padding: 0;
 }
+
+p.finalp {
+  text-align: block;
+  text-justify: block;
+}
