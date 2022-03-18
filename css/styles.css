@@ -52,10 +52,9 @@ body {
   float: right;
   height: 150px;
   width: 150px;
-  /* position:relative;
-  margin: -25px;
-  margin-bottom: 5px;
-  margin-right: 25px; */
+  position:relative;
+  margin-right: 400px;
+  margin-bottom: -20px;
 }
 
 sup {
