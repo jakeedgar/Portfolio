@@ -1,11 +1,3 @@
-/* #toprow {
-  text-align: center;
-}
-
-#bottomrow {
-  text-align: right;
-} */
-
 .jumbotron {
   margin-top: 5px;
   margin-bottom: 5px;
@@ -14,9 +6,7 @@
   text-align: left;
   background-image: url(../img/brooklyn_bridge_5.jpg);
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
   background-position: center;
-  /* background-size: 100% 100%; */
   background-size: cover;
 }
 
