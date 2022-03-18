@@ -52,10 +52,10 @@ body {
   float: right;
   height: 150px;
   width: 150px;
-  /* position:relative; */
+  /* position:relative;
   margin: -25px;
   margin-bottom: 5px;
-  margin-right: 25px;
+  margin-right: 25px; */
 }
 
 sup {
@@ -66,4 +66,10 @@ sup {
   color: lightgrey; 
   font-variant-position: super;
   letter-spacing: -1px;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
