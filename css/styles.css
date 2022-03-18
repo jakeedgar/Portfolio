@@ -1,0 +1,14 @@
+/* #toprow {
+  text-align: center;
+}
+
+#bottomrow {
+  text-align: right;
+} */
+
+.jumbotron {
+  background-image: url(/Users/jakeedgar/Desktop/portfolio/img/brooklyn_bridge_3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
