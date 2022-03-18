@@ -23,7 +23,7 @@ Using this website, users can easily navigated to past and current projects by t
 * Open index.html in your browser. 
 
 ## Link 
-https://github.com/jakeedgar/portfolio.git
+https://github.com/jakeedgar/portfolio/
 
 ## Known Bugs
 
