@@ -22,6 +22,9 @@ Using this website, users can easily navigated to past and current projects by t
 * Navigate to the top level of the directory. 
 * Open index.html in your browser. 
 
+## Link 
+https://github.com/jakeedgar/portfolio.git
+
 ## Known Bugs
 
 * There are no known bugs at this time.
